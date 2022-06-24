@@ -1,0 +1,8 @@
+https://github.com/VinuSingh/hexaware.git
+
+git----
+
+git init----> ti is used to create empty repo or re-initilize exitising one
+git status--->>
+git difference is use to see what chances is made 
+git difference -- staged
