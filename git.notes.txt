@@ -6,3 +6,7 @@ git init----> ti is used to create empty repo or re-initilize exitising one
 git status--->>
 git difference is use to see what chances is made 
 git difference -- staged
+git commit -m give a descriptive msg
+git remote add origin "link" uploads the file
+
+git push -u origin master--> for the addition to which 
