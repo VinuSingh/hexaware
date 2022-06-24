@@ -7,6 +7,7 @@ git status--->>
 git difference is use to see what chances is made 
 git difference -- staged
 git commit -m give a descriptive msg
-git remote add origin "link" uploads the file
-
+git remote add origin <link> ---->>>uploads the file
+<link>-https://github.com/VinuSingh/hexaware.git
 git push -u origin master--> for the addition to which 
+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
